@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1511374903 source:c:\users\fiturra\desktop\eedd\proyectoedd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdint.h>
+	<string.h>
+
+1511399178 source:c:\users\francisco\desktop\proyectoedd_2-20171122t235258z-001\proyectoedd_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdint.h>
+	<string.h>
+
